@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: linear-gradient(90deg, darkseagreen, rgb(47, 165, 47));
+}
+#tabela{
+    background-color: rgb(39, 170, 39);
+    border-radius: 15px;
+    border: 1px solid black;
+    width: 34vw;
+    padding: 2vh 2vw 2vh 2vw;
+    margin: 3vh 0 0 30vw;
+}
+#dados{
+    margin: 1vh 0 0 3.5vw;
+}
+#name{
+    width: 26.1vw;
+    height: 5vh;
+    padding-left: 0.5vw;
+}
+#imc{
+    margin-top: 2vh;
+}
+#peso{
+    width: 11vw;
+    height: 5vh;
+    margin-right: 0.5vw;
+    padding-left: 0.5vw;
+}
+#altura{
+    width: 13vw;
+    height: 5vh;
+    margin-left: 0.5vw; 
+    padding-left: 0.5vw;
+}
+#registrar{
+    padding: 1vh 3vw 1vh 3vw;
+    margin-left: 35%;
+    margin-top: 2vh;
+}
+table{
+    margin: 3vh 0 0 0;
+    width: 34vw;
+    
+}
+th{
+    background-color: rgb(211, 211, 211);
+    padding: 1vh 1vw 1vh 1vw;
+}
+td{
+    background-color: aliceblue;
+    padding-left: 1vw;
+}
+
+
+
+
+
