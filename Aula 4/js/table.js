@@ -39,8 +39,6 @@ function dados(){
 
     tbody.append(tr)
 
-    nome.innerHTML=""
-    peso.innerHTML=""
-    altura.innerHTML=""
+
 }
      
